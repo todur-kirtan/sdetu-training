@@ -4,8 +4,8 @@ public class Lab2 {
 
 	public static void main(String[] args) {
 		Student stu1 = new Student("Jenelle","88239994"); 
-		Student stu2 = new Student("Thomas","2323423"); 
-		Student stu3 = new Student("Liz","23423423");
+//		Student stu2 = new Student("Thomas","2323423"); 
+//		Student stu3 = new Student("Liz","23423423");
 		stu1.enroll("Math151");
 		stu1.enroll("English255");
 		stu1.enroll("History211");

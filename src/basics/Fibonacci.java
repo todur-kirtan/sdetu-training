@@ -17,6 +17,8 @@ public class Fibonacci {
 		int b = 1;
 		int num=0;
 		
+		
+		
 			
 			for(int i=0;i<=count;i++) {
 				

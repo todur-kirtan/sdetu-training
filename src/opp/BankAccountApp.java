@@ -5,8 +5,8 @@ public class BankAccountApp {
 	public static void main(String[] args) {
 		
 		BankAccount acc1 = new BankAccount("9912332333",1000.30);
-		BankAccount acc2 = new BankAccount("4343233233",2000);	
-		BankAccount acc3 = new BankAccount("5754533233",2000);
+//		BankAccount acc2 = new BankAccount("4343233233",2000);	
+//		BankAccount acc3 = new BankAccount("5754533233",2000);
 		
 		acc1.setName("Tom");
 		System.out.println(acc1.getName());
